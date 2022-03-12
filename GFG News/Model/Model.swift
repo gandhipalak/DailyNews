@@ -1,7 +1,9 @@
-// This file was generated from JSON Schema using quicktype, do not modify it directly.
-// To parse the JSON, add this file to your project and do:
 //
-//   let newsData = try? newJSONDecoder().decode(NewsData.self, from: jsonData)
+//  ContentView.swift
+//  GFG News
+//
+//  Created by Palak Gandhi on 12/03/22.
+//
 
 import Foundation
 
